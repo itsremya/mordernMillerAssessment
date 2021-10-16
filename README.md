@@ -1,6 +1,6 @@
-Modern Miller Assessment
+# Modern Miller Assessment
 
-1 About
+## 1 About
 
 This repository contains the source code for the Build Yelp in React
 
@@ -10,18 +10,23 @@ On the first page, you should be able to search for businesses in Naperville or 
 
 When you select a result, it should take you to a second page where you can see details about the business.
 
-2.Screenshots
+## 2.Screenshots
 
 The application shows real data by calling the Yelp Fusion API.
 
-![alt text]()
+## 2.1. Home
+![Yelp Home](/src/ReadmeImages/HomePage.png)
 
 
-3.Restriction while calling Yelp Fusion API
+## 3.2. Search for businesses / restaurants
+![Yelp Search](/src/ReadmeImages/businessDetails.png)
+
+
+## 3.Restriction while calling Yelp Fusion API
 
 This app uses the CORS Anywhere because the Yelp Fusion REST API is meant for server to server communication and does not support CORS So i searched and find an option to to proxy all request through CORS Anywhere so we can focus on building the frontend part of the application.
 
-4.How to run this Application
+## 4.How to run this Application
 
 This application looks pretty much the same like the original Yelp website.
 
@@ -43,7 +48,7 @@ Install the dependencies by running npm install or yarn install
 
 Run the app with npm start or yarn start
 
-5.Used Technologies
+## 5.Used Technologies
 
 React / create-react-app
 
