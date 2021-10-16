@@ -15,10 +15,11 @@ When you select a result, it should take you to a second page where you can see 
 The application shows real data by calling the Yelp Fusion API.
 
 ## 2.1. Home
-![Yelp Home](images/yelp-home.png)
+![Yelp Home](/src/ReadmeImages/HomePage.png)
 
 
-![alt text]()
+## 3.2. Search for businesses / restaurants
+![Yelp Search](/src/ReadmeImages/businessDetails.png)
 
 
 ## 3.Restriction while calling Yelp Fusion API
