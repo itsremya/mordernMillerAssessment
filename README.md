@@ -1,4 +1,4 @@
-my_yelp_app
+Modern Miller Assessment
 
 1 About
 
